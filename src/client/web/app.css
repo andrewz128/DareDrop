@@ -1,0 +1,22 @@
+html, body {
+	height: 100%;
+	position: relative;
+}
+
+body {
+	margin: 0;
+	padding: 0 !important; 
+	font-family: Roboto;
+	white-space: pre-line;
+	overflow-scrolling: touch;
+	-webkit-overflow-scrolling: touch;
+	overflow-y: scroll !important; 
+}
+
+.mui-fixed {
+	padding: 0 !important;
+}
+
+.hide {
+	display: none;
+}

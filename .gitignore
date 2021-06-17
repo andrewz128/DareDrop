@@ -1,0 +1,8 @@
+node_modules
+build
+.cloudFormation
+cfOutput.js
+cfTemplate.json
+dist
+secrets.js
+.idea/
